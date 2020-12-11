@@ -56,12 +56,11 @@ section {
   width: 70%;
   border: 3px solid #1e73be;
   padding: 10px;
+  margin-bottom: 50px;
 }
 
 header {
   margin-bottom: 100px;
 }
 
-#css {
-    margin-bottom: 50px;
-}
+
